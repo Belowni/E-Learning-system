@@ -45,13 +45,10 @@ Screen shot of the system will be added here  !!!!!!
 
 ![Screenshot 2023-02-28 231142](https://user-images.githubusercontent.com/98779202/222959766-2262fdc3-e7e0-4abd-ab9a-6d14cf341efc.jpg)
 
-# JOIN CLASS ROOM PAGE
-
-![Screenshot 2023-03-01 095301](https://user-images.githubusercontent.com/98779202/222959824-08cf821d-50c0-4b01-bb2d-4a1551067545.jpg)
-
 # INSIDE CLASS PAGE
 
-![Screenshot 2023-03-01 095159](https://user-images.githubusercontent.com/98779202/222959855-77e9cd17-7e57-43ee-b376-aee04ba8c529.jpg)
+![]![Screenshot 2023-06-30 103101](https://github.com/Belowni/E-Learning-system/assets/138204919/d655edb2-6771-4596-9146-b48a829f613b)
+
 
 # LIVE CONTACT SUPPORT PAGE
 
@@ -60,4 +57,5 @@ Screen shot of the system will be added here  !!!!!!
 
 # METHODOLOGY USED
 
-![Screenshot 2023-03-01 192526](https://user-images.githubusercontent.com/98779202/222959948-b57f490d-7cf7-493a-b7af-63439a9b8af0.jpg)
+![software-engineering-incremental-model](https://github.com/Belowni/E-Learning-system/assets/138204919/0fcb7b85-75fb-4a42-b5be-3ae5ba425c6c)
+
